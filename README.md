@@ -1,6 +1,6 @@
 # Call-of-Duty-Data-Visualizations
 
-The PDF (CoD Tableau Visualization Project Julian Navarre) has everything you need!
+The PDF (CoD Tableau Visualization Project Julian N) has everything you need!
 
 
 The purpose of this personal project was to further enhance my Tableau skills. During the winter
